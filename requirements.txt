@@ -1,8 +1,21 @@
-fastapi
-uvicorn
-langchain
-langchain-google-genai
-google-generativeai
-python-dotenv
-pydantic
-dotenv
+# Core dependencies for Docstring Generation Agent
+
+# No external dependencies required!
+# This agent uses only Python standard library:
+# - ast: For parsing Python code
+# - dataclasses: For data models
+# - typing: For type hints
+# - pathlib: For file operations
+# - json: For JSON output
+# - re: For pattern matching
+# - datetime: For timestamps
+
+# Optional dependencies for enhanced features:
+# (Uncomment if you want to add these features)
+
+# colorama>=0.4.6  # For colored console output
+# rich>=13.0.0  # For beautiful terminal formatting
+# click>=8.1.0  # For enhanced CLI interface
+# pyyaml>=6.0  # For YAML configuration support
+#streamlit
+#python-dotenv

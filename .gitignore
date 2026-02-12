@@ -1,1 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+2. Initialize and
+
 .env
